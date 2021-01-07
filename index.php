@@ -1,5 +1,7 @@
 <?php
 
-	echo "Olá Mundo! Alterando Remoto";
+	echo "Pagina Alterada Em conflito";
+
+	echo "Olá Eduardo";
 
 ?>
